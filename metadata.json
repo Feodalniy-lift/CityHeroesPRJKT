@@ -1,0 +1,7 @@
+{
+  "name": "Visual Stream Describer",
+  "description": "An application that uses the Gemini API to continuously describe a live video feed from the user's camera in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
